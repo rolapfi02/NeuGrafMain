@@ -1,3 +1,6 @@
 [submodule "Neugraf2"]
 	path = Neugraf2
 	url = https://github.com/rolapfi02/Neugraf2.git
+[submodule "Profil"]
+	path = Profil
+	url = https://github.com/rolapfi02/Profil.git
