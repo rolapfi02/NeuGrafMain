@@ -10,3 +10,6 @@
 [submodule "CICommandLib"]
 	path = CICommandLib
 	url = https://github.com/rolapfi02/CICommandLib.git
+[submodule "CalculatorLibary"]
+	path = CalculatorLibary
+	url = https://github.com/rolapfi02/CalculatorLibary.git
