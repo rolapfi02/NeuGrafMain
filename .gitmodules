@@ -13,3 +13,6 @@
 [submodule "CalculatorLibary"]
 	path = CalculatorLibary
 	url = https://github.com/rolapfi02/CalculatorLibary.git
+[submodule "Interpreter"]
+	path = Interpreter
+	url = https://github.com/rolapfi02/Interpreter.git
