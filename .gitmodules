@@ -4,3 +4,6 @@
 [submodule "Profil"]
 	path = Profil
 	url = https://github.com/rolapfi02/Profil.git
+[submodule "CMDF4LIB"]
+	path = CMDF4LIB
+	url = https://github.com/rolapfi02/CMDF4LIB.git
